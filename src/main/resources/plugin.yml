@@ -1,0 +1,7 @@
+name: RaveQ-CoinManager
+version: '${version}'
+main: com.raveq.coinmanager.CoinManager
+api-version: 1.19
+
+commands:
+  coins:
